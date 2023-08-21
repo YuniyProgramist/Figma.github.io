@@ -1,1 +1,1 @@
-# Figma.github.io
+# Figma
